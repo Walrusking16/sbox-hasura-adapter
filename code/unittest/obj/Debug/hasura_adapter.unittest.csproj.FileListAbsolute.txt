@@ -1,0 +1,22 @@
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\CoverletSourceRootsMapping_hasura_adapter.unittest
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\testhost.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\testhost.exe
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\hasura_adapter.unittest.xml
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\hasura_adapter.unittest.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\hasura_adapter.unittest.runtimeconfig.json
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\hasura_adapter.unittest.dll
+C:\Program Files (x86)\Steam\steamapps\common\sbox\.vs\output\hasura_adapter.unittest.pdb
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.csproj.AssemblyReference.cache
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.AssemblyInfoInputs.cache
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.AssemblyInfo.cs
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.csproj.CoreCompileInputs.cache
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.csproj.CopyComplete
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.dll
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\refint\hasura_adapter.unittest.dll
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.pdb
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\hasura_adapter.unittest.genruntimeconfig.cache
+C:\Users\Walrus\Documents\s&box projects\hasura_adapter\code\unittest\obj\Debug\ref\hasura_adapter.unittest.dll
